@@ -1,0 +1,7 @@
+Open Source
+-----------
+
+* OAuth Drupal Module (68,786 active installs)
+* Google Summer of Code intern - 2008
+* Google Summer of Code Organization Admin (3 years)
+* Many more Drupal project contributions

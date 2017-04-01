@@ -1,0 +1,54 @@
+SumitK.net
+=========
+
+Sumit Kataria
+Software Developer
+
+Drupal / AngularJS / Ionic /
+React / React-Native / PHP / CouchDB
+
+I am passionate about the technology industry
+because it is inexhaustible and is always transforming and evolving.
+
+I have strong track record of creating innovative products
+and leading complex technical cross-team projects to completion.
+
+Responsible for driving innovative product experiences such as:
+-------
+
+* Go90 enterprise backend management at Verizon Media (AngularJS and later ReactJS)
+* Go90 media platform (AngularJS and ReactJS)
+* App reached #4 iOS App Store US (Hardly Strictly Bluegrass music festival - Bay Area)
+* i18n TeslaMotors.com (Drupal / PHP)
+* Backend APIs and mobile apps for Drupalize.Me (Videola -
+  Open source video platform to build services such as Netflix)
+* 6X DrupalCon [Drupal Annual Conference] speaker
+* OAuth integration with Drupal (Drupal / PHP)
+* Deep social network integration into Drupal
+* E-commerce mobile for Drupal Commerce
+
+Contact
+-------
+
+* LinkedIn: www.linkedin.com/in/sumitkataria/
+* sumitk at sumitk dot com
+* pec.sumit at gmail dot com
+* sumit.kataria1 on skype
+* 415.830.6313
+
+Availability
+------------
+
+At this time, I am looking for new exciting opportunities.
+I work remote and contract only.
+
+Projects
+--------
+
+* www.go90.com
+* Go90 backend systems
+* Online Learning Consortium conference system and mobile apps
+* Target AngularJS e-commerce implementation
+* Many projects at www.lullabot.com
+* Drupalize.Me iPhone, iPad, Roku & Android native Apps
+* More@ https://www.linkedin.com/in/sumitkataria/
